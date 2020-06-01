@@ -10,7 +10,7 @@ To download and installation app, you should follow these steps:
 
     1. At first, Anaconda has to be dowloaded to the pc.
     
-    2. Then enter the anaconda promtand you can simply install kivy using:
+    2. Then enter the anaconda promt and you can simply install kivy using:
      $ conda install kivy -c conda-forge
     
     3. After kivy is dowloaded, dowload the file named CookHubProjectCodes.rar in the relases/assets tab than unzip the file.
