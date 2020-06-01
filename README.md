@@ -8,10 +8,11 @@ Cook Hub I.
 To use  the application, firstly you should download it to your device. then it is ready to use directly. 	
 To download and installation app, you should follow these steps:
 
-    1. At first, open the app store, which is suitable for the device you use.
+    1. At first, Anaconda has to be dowloaded to the pc.
     
-    2. Type and search for "Cook Hub" in the search bar.
+    2. Then enter the anaconda promtand you can simply install kivy using:
+     $ conda install kivy -c conda-forge
     
-    3. Press the download button on the page that opens. Installation will start automatically.
-    
-    4. Open the app after downloading it to your device.
+    3. After kivy is dowloaded, dowload the file named CookHubProjectCodes.rar in the relases/assets tab than unzip the file.
+
+    4. Open the CookHub.py in the anaconda and enjoy our relase.
